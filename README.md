@@ -1,7 +1,7 @@
 # SPOJ
 
-My solutions.
+My solutions to [SPOJ](http://www.spoj.com/) problems.
 
-Heitor Silva<br>
-http://www.heitorsilva.com/<br>
-http://blog.heitorsilva.com/
+## Profile
+
+[http://www.spoj.com/users/heitorsilva](http://www.spoj.com/users/heitorsilva)
