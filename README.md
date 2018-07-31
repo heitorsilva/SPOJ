@@ -1,6 +1,6 @@
 # SPOJ
 
-My solutions to [SPOJ](http://www.spoj.com/) problems.
+My solutions to [SPOJ](http://www.spoj.com/) challenges.
 
 ## Profile
 
